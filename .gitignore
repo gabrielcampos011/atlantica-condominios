@@ -1,0 +1,14 @@
+.vercel
+*.DS_Store
+Thumbs.db
+
+# Arquivos fonte originais (substituídos pela estrutura em images/)
+atlantica_condominios*.html
+area de lazer.png
+Captura de tela*.png
+Captura_de_tela*.png
+casa_projeto.png
+infra_pontos.png
+logo_branco.png
+planta.png
+prainha.png
